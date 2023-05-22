@@ -36,7 +36,6 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Projects</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#papers">Researches & Reports</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
 
         </ul>
@@ -64,7 +63,7 @@
         </div>
     </section>
     <hr class="m-0" />
-    <!-- Projects-->
+    <!-- Experience-->
     <section class="resume-section" id="experience">
         <div class="resume-section-content">
             <h2 class="mb-5">Projects</h2>
@@ -99,79 +98,6 @@
         </div>
     </section>
     <hr class="m-0" />
-
-
-    <!-- Papers -->
-    <section class="resume-section" id="papers">
-        <div class="resume-section-content">
-            <h2 class="mb-5">Papers</h2>
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
-                    <h3 class="mb-0">LUA language</h3>
-                    <p>A small research about LUA language
-                        <a href="https://drive.google.com/file/d/1QV4mir-fRByJCViKGujT1Zn2CCx_MjNp/view?usp=share_link">Link</a>
-
-
-                    </p>
-                </div>
-                <div class="flex-shrink-0"><span class="text-primary">2021</span></div>
-            </div>
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
-                    <h3 class="mb-0">Cloth detection using machine learning models </h3>
-                    <div class="subheading mb-3">Project Report</div>
-                    <p>Implementing Long-Short Term Memory Networks and Multi-class Error Correcting Output
-                        Codes on Fashion-MNIST
-                        <a href="https://drive.google.com/file/d/1v4juMH0ZKcQYiTBSwSHjozYzmWuLDo4c/view?usp=share_link"> Link </a>
-                    </p>
-                </div>
-                <div class="flex-shrink-0"><span class="text-primary">2023</span></div>
-            </div>
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
-                    <h3 class="mb-0">Toxic Chat</h3>
-                    <div class="subheading mb-3">Research paper</div>
-                    <p>Research about detecting toxic chat in games and banning player based on different machine learning techniques <a href="https://drive.google.com/file/d/1otoaFHDYjx0qmbBWiYf3w35ilrKLXZSv/view?usp=share_link">
-                        Link</a>
-                    </p>
-                </div>
-                <div class="flex-shrink-0"><span class="text-primary">2023</span></div>
-            </div>
-
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
-                    <h3 class="mb-0">Spam Detection using Classifier Decision Fusion </h3>
-                    <div class="subheading mb-3">Project Report</div>
-                    <p>A report done about the results of using Decision Fusion classifying techniques on spam dataset
-                        <a href="https://drive.google.com/file/d/1atOgxen9k9F6awPb6RBbOraZFHBI4Mnj/view?usp=share_link"> Link </a>
-                    </p>
-                </div>
-                <div class="flex-shrink-0"><span class="text-primary">2023</span></div>
-            </div>
-
-
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
-                    <h3 class="mb-0">Survivor.VR</h3>
-                    <div class="subheading mb-3">Graduation Project</div>
-                    <p>Welding hazard simulating game
-                        <a href="https://drive.google.com/file/d/1K68iVwle6b_g98eYuZ4x94b5KaJ6Vxu1/view?usp=share_link"> Link </a>
-                    </p>
-                </div>
-                <div class="flex-shrink-0"><span class="text-primary">2023</span></div>
-            </div>
-
-
-        </div>
-    </section>
-    <hr class="m-0" />
-
-
-
-
-
-
-
     <!-- Education-->
     <section class="resume-section" id="education">
         <div class="resume-section-content">
